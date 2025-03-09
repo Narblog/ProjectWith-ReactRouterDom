@@ -1,0 +1,56 @@
+{
+  "composers": [
+    {
+      "id": "101",
+      "name": "W.A. Mozart",
+      "works": [
+        "The Magic Flute",
+        "Eine kleine Nachtmusik",
+        "Requiem",
+        {
+          "composition": "42334234243",
+          "id": 1741548688579
+        },
+        {
+          "composition": "12312",
+          "id": 1741549884070
+        },
+        {
+          "composition": "324324",
+          "id": 1741549915090
+        },
+        {
+          "composition": "33",
+          "id": 1741549959421
+        }
+      ],
+      "photo": "https://media.gettyimages.com/id/122339626/photo/unspecified-austria-18th-century-portrait-of-wolfgang-amadeus-mozart-austrian-composer-and.jpg?s=612x612&w=gi&k=20&c=U2US-nIw98nKQ6o-za6QF-fLUxYb9ZnxmX4128m_3_w="
+    },
+    {
+      "id": "102",
+      "name": "Ludwig van Beethoven",
+      "works": [
+        "Symphony No. 5",
+        "Für Elise",
+        "Moonlight Sonata"
+      ],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Beethoven_wiki.jpg/421px-Beethoven_wiki.jpg"
+    },
+    {
+      "id": "103",
+      "name": "Johann Sebastian Bach",
+      "works": [
+        "Toccata and Fugue in D minor",
+        "Brandenburg Concertos",
+        "Mass in B minor"
+      ],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg"
+    },
+    {
+      "id": "05d6",
+      "name": "Jean August",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Jean-auguste-dominique_ingres%2C_il_compositore_luigi_cherubini_e_la_musa_della_poesia_lirica%2C_1842%2C_01.jpg/700px-Jean-auguste-dominique_ingres%2C_il_compositore_luigi_cherubini_e_la_musa_della_poesia_lirica%2C_1842%2C_01.jpg",
+      "work": []
+    }
+  ]
+}
